@@ -1,0 +1,2 @@
+# LindyShop
+e-commerce website
